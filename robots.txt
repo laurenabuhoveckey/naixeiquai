@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zooghaech.humlin.com/sitemap.xml
